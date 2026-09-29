@@ -1,0 +1,6 @@
+{
+  "name": "Medicare",
+  "description": "AI Powered Smart Healthcare and Medicine Reminder App with vitals tracking, emergency SOS, and doctor appointments",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
